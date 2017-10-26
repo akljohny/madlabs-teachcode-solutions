@@ -1,0 +1,5 @@
+x = int(133)
+y = int(125)
+z = float(1.233)
+q = complex(13.12j)
+print (x, y, z, q)
