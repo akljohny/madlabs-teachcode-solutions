@@ -1,0 +1,7 @@
+x = int(1.23) 
+y = float(5)
+z = str(8) 
+q = ord('a')
+r = chr(97) 
+s = hex(10)
+print (x, y, z, r, q, s)
