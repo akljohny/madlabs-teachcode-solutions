@@ -1,0 +1,10 @@
+x = int(input())
+y = int(input())
+z = int(input())
+import math
+p = max(x,y,z)
+q = min(x,y,z)
+r = math.sqrt(p)
+print (p)
+print (q)
+print (r)
